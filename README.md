@@ -1,6 +1,6 @@
 # DataSphere
 
-Welcome to **DataSphere**! 🌐 Dive into a universe of data-driven projects curated from various leading learning platforms. This repository serves as a comprehensive collection of guided projects, each housed in its own folder, offering a wealth of knowledge and practical experience in data science, machine learning, and analytics.
+Welcome to **DataSphere**! 🌐 Dive into a universe of data-driven and machine learning projects curated from various leading learning platforms. This repository serves as a comprehensive collection of guided projects, each housed in its own folder, offering a wealth of knowledge and practical experience in data science, machine learning, and analytics.
 
 ## 📂 Project Structure
 

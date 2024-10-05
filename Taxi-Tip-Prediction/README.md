@@ -2,7 +2,7 @@
 
 This guided project focuses on predicting taxi tips using machine learning techniques. We utilize Scikit-learn and SnapML to build and evaluate predictive models.
 
-<img src="taxitip.png" alt="Taxi Tip Prediction" width="400" height="400"/>
+<img src="taxitip.png" alt="Taxi Tip Prediction" width="400" height="200"/>
 
 ## Project Overview
 

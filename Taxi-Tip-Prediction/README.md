@@ -4,6 +4,7 @@ This guided project focuses on predicting taxi tips using machine learning techn
 <div align="center">
 <img src="taxitip.png" alt="Taxi Tip Prediction" width="350" height="200"/>
 </div>
+
 ## Project Overview
 
 The goal of this project is to accurately predict the tip amount given by passengers during taxi rides. By leveraging machine learning algorithms, we aim to provide insights and improve the prediction accuracy.

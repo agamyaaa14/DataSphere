@@ -1,5 +1,7 @@
 # Global CO2 Emissions Analysis
 
+This badge was awarded upon successful completion of the Global CO2 Emissions Data Analysis project, highlighting skills in data profiling, transformation, and interactive visualization of emissions trends.
+
 ![Project Badge](img/global5.png)
 
 This guided project explores and visualizes global CO2 emissions data, focusing on the largest contributors and the trends between emissions and country populations. The analysis is performed through data profiling, visualization, and the creation of an interactive dashboard using Tableau.

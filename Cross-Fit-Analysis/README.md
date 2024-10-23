@@ -1,8 +1,9 @@
 # CrossFit Competitors Data Analysis
 
+*This badge was awarded upon successful completion of the CrossFit Competitors Data Analysis project, showcasing the proficiency in data cleaning, transformation, and visualization.*
 ![Project Badge](img/cross8.png)
 
-This project analyzes data on CrossFit competitors to understand their demographics, performance, and country representation. The data has been profiled, cleaned, transformed, and summarized to create meaningful insights for further analysis. The final dashboard visualizes key findings, trends, and metrics.
+This guided project analyzes data on CrossFit competitors to understand their demographics, performance, and country representation. The data has been profiled, cleaned, transformed, and summarized to create meaningful insights for further analysis. The final dashboard visualizes key findings, trends, and metrics.
 
 ## Objective 1: Profile & QA the Data
 

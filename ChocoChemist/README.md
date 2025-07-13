@@ -24,5 +24,5 @@ The model is trained on the **Flavors of Cacao** dataset and uses:
 ---
 
 ## 📦 Dataset
-- Source: [Chocolate Ratings Dataset]([http://flavorsofcacao.com/chocolate_database.html](https://www.kaggle.com/datasets/joebeachcapital/chocolate-ratings))
+- Source: [Chocolate Ratings Dataset](https://www.kaggle.com/datasets/joebeachcapital/chocolate-ratings)
 

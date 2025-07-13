@@ -1,4 +1,4 @@
-# 🍫 ChocoChemist: Predicting Chocolate Bar Ratings
+# 🍫 ChocoChemist: Decoding Chocolate Quality with LightGBM
 
 ChocoChemist is a machine learning project that predicts expert chocolate ratings (from 1 to 4) using both structured product data and unstructured flavor descriptions.
 

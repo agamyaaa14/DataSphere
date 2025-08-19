@@ -2,13 +2,13 @@
 
 This repository contains the project work for the Data Science and Machine Learning internship at **Uniconverge Technologies Pvt Ltd (UCT)**, facilitated by Upskill Campus done during the period July - August 2025.
 
-## 📝 Introduction
+## Introduction
 
 The goal of this project is to predict the Remaining Useful Life (RUL) of turbofan engines using a simulated time-series dataset provided by NASA. The project involves a complete machine learning workflow, including data exploration, feature engineering, preprocessing, and the development and comparison of two predictive models: a Random Forest Regressor and a Long Short-Term Memory (LSTM) network.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses the **NASA C-MAPSS (Commercial Modular Aero-Propulsion System Simulation)** dataset. This dataset is divided into four subsets, each with increasing complexity:
 
@@ -23,7 +23,7 @@ Each engine's data includes time-series measurements from 21 sensors and 3 opera
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The repository is organized as follows:
 ```
@@ -91,4 +91,4 @@ The performance of the two models was compared across all four datasets. The LST
 
 ## Author
 
-* **Agamya David**
+**Agamya David**

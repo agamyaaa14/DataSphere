@@ -1,4 +1,4 @@
-# Interview Coach
+# Build Your Interview Coach with Llama, OpenAI Whisper & TTS
 
 ![Banner](interview.png)
 

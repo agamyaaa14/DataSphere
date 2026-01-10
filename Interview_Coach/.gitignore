@@ -1,0 +1,4 @@
+# Exclude Gradio certificates and other PEM keys
+gradio/certificate.pem
+gradio/*.pem
+temp_voice.mp3
